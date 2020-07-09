@@ -145,7 +145,7 @@ public class ATMFRAME extends JFrame implements ActionListener{
          String  input = t3.getText();
         if (e.getSource()==bconfirm)
         {
-            if(s2.equals("basel2020")&&s1.equals("basel"))
+            if(s2.equals("blabla2020")&&s1.equals("blablah"))
             {
              s1=t1.getText().toString();
              s2=a1.getText().toString();
